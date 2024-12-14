@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.gallifrey.com.br/assets/img/gallifrey-logo.png" alt="Comanda Rápida Logo">
+  <img src="https://api.gallifrey.com.br/img/gallifrey-logo.png" alt="Gallifrey Sistemas Logo">
 </p>
 
 # Gallifrey Sistemas
