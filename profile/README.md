@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://api.gallifrey.com.br/assets/img/gallifrey-logo.png" alt="Comanda Rápida Logo">
+</p>
+
 # Gallifrey Sistemas
 
 **Gallifrey Sistemas** é uma empresa dedicada ao desenvolvimento de soluções tecnológicas inovadoras para resolver problemas práticos do dia a dia. Nosso objetivo é fornecer ferramentas eficientes e modernas para empresas, melhorando a gestão, o desempenho e a produtividade.
@@ -24,7 +28,7 @@ Desenvolvemos soluções sob demanda para atender às necessidades específicas 
 ## 🔗 Links
 
 - [Website da Gallifrey Sistemas](https://gallifrey.com.br)
-- [LinkedIn da Gallifrey Sistemas](https://www.linkedin.com/company/gallifrey-sistemas)
+- [LinkedIn da Gallifrey Sistemas](https://www.linkedin.com/company/gallifreysistemas/)
 
 
 **Gallifrey Sistemas** - Desenvolvendo o amanhã Juntos.
